@@ -1,5 +1,11 @@
 # 💫 About Me:
-🛠 I’m currently working as a Fullstack Developer<br>🤝 I’m looking to collaborate on open source or freelance projects<br>🙌 I’m looking for help with mastering advanced backend architecture<br>🎓 I’m currently learning more about Flutter and scalable systems<br>💬 Ask me about ReactJS, Laravel, Node.js, Python, or Flutter<br>⚡ Fun fact: I’m an SMK graduate in Software Engineering with hands-on experience in real-world development. I’m always open to exciting freelance opportunities and collaborations—whether it's building apps, solving problems, or contributing to impactful projects. Let’s create something awesome together!
+🛠 Currently working as a Fullstack Developer with experience in web & mobile development  
+🎓 Active Diploma 3 student in Informatics Engineering at Politeknik Negeri Bandung (POLBAN)  
+🤝 Open to collaborate on open source, freelance, or real-world projects  
+🚀 Actively freelancing while studying, handling various client-based development projects  
+📚 Continuously learning Flutter, scalable backend architecture, and modern system design  
+💬 Ask me about ReactJS, Laravel, Node.js, Python, Flutter, REST API, or database design  
+⚡ Fun fact: I’m an SMK Software Engineering (RPL) graduate with hands-on industry, internship, and freelance experience. I love building real products, solving problems, and collaborating with passionate people. Let’s build something impactful together!
 
 
 ## 🌐 Socials:
